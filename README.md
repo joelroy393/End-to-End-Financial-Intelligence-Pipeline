@@ -17,7 +17,6 @@ By moving beyond static files, this architecture simulates a real-world enterpri
 ---
 
 ## 📊 Dashboard Preview
-*(Note: Add your screenshots to a `/screenshots` folder before pushing to GitHub)*
 
 ![Executive Summary](images/executive_summary.png)
 *Figure 1: Executive Summary showing YTD Spending and Budget Variance.*
