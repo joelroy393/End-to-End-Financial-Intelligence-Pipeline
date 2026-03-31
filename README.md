@@ -67,7 +67,7 @@ The pipeline uses **SQL Server Express** as the central data hub.
 ## 📖 How to Run This Project
 1. **SQL Setup:** Create a database named `FinancePortfolioDB` in SQL Server Management Studio.
 2. **Driver:** Install `ODBC Driver 17 for SQL Server`.
-3. **Run ETL:** Execute `python/datagenerator.py` to populate the SQL tables.
+3. **Run ETL:** Execute `script/datagenerator.py` to populate the SQL tables.
 4. **Connect PBIX:** Open the `.pbix` file and update the Data Source settings to point to your local SQL Server instance.
 
 ---
